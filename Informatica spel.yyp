@@ -35,6 +35,7 @@
     {"id":{"name":"obj_hoofd","path":"objects/obj_hoofd/obj_hoofd.yy",},"order":0,},
     {"id":{"name":"spr_gras","path":"sprites/spr_gras/spr_gras.yy",},"order":0,},
     {"id":{"name":"Obj_gras","path":"objects/Obj_gras/Obj_gras.yy",},"order":0,},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":0,},
     {"id":{"name":"spr_bob","path":"sprites/spr_bob/spr_bob.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
