@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 2,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":0,},
@@ -32,7 +32,11 @@
     "IDEVersion": "2023.1.0.58",
   },
   "resources": [
+    {"id":{"name":"Spr_coco","path":"sprites/Spr_coco/Spr_coco.yy",},"order":0,},
     {"id":{"name":"obj_hoofd","path":"objects/obj_hoofd/obj_hoofd.yy",},"order":0,},
+    {"id":{"name":"Obj_coconut","path":"objects/Obj_coconut/Obj_coconut.yy",},"order":0,},
+    {"id":{"name":"Obj_pew","path":"objects/Obj_pew/Obj_pew.yy",},"order":0,},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":0,},
     {"id":{"name":"spr_gras","path":"sprites/spr_gras/spr_gras.yy",},"order":0,},
     {"id":{"name":"Obj_gras","path":"objects/Obj_gras/Obj_gras.yy",},"order":0,},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":0,},
