@@ -23,5 +23,6 @@
     {"name":"spr_gras","order":1,"path":"sprites/spr_gras/spr_gras.yy",},
     {"name":"Obj_gras","order":1,"path":"objects/Obj_gras/Obj_gras.yy",},
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Obj_breakGrass","order":4,"path":"objects/Obj_breakGrass/Obj_breakGrass.yy",},
   ],
 }
