@@ -16,6 +16,7 @@
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Object7","order":6,"path":"objects/Object7/Object7.yy",},
     {"name":"Spr_coco","order":3,"path":"sprites/Spr_coco/Spr_coco.yy",},
     {"name":"Obj_coconut","order":2,"path":"objects/Obj_coconut/Obj_coconut.yy",},
     {"name":"Obj_pew","order":3,"path":"objects/Obj_pew/Obj_pew.yy",},
@@ -23,7 +24,7 @@
     {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"spr_gras","order":1,"path":"sprites/spr_gras/spr_gras.yy",},
     {"name":"Obj_gras","order":1,"path":"objects/Obj_gras/Obj_gras.yy",},
-    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Spr_aliaan","order":2,"path":"sprites/Spr_aliaan/Spr_aliaan.yy",},
     {"name":"Obj_gras2","order":5,"path":"objects/Obj_gras2/Obj_gras2.yy",},
     {"name":"Obj_breakGrass","order":4,"path":"objects/Obj_breakGrass/Obj_breakGrass.yy",},
   ],

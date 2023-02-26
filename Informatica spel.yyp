@@ -32,6 +32,7 @@
     "IDEVersion": "2023.1.0.58",
   },
   "resources": [
+    {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},"order":0,},
     {"id":{"name":"Spr_coco","path":"sprites/Spr_coco/Spr_coco.yy",},"order":0,},
     {"id":{"name":"obj_hoofd","path":"objects/obj_hoofd/obj_hoofd.yy",},"order":0,},
     {"id":{"name":"Obj_coconut","path":"objects/Obj_coconut/Obj_coconut.yy",},"order":0,},
@@ -40,7 +41,7 @@
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":0,},
     {"id":{"name":"spr_gras","path":"sprites/spr_gras/spr_gras.yy",},"order":0,},
     {"id":{"name":"Obj_gras","path":"objects/Obj_gras/Obj_gras.yy",},"order":0,},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":0,},
+    {"id":{"name":"Spr_aliaan","path":"sprites/Spr_aliaan/Spr_aliaan.yy",},"order":0,},
     {"id":{"name":"spr_bob","path":"sprites/spr_bob/spr_bob.yy",},"order":0,},
     {"id":{"name":"Obj_gras2","path":"objects/Obj_gras2/Obj_gras2.yy",},"order":0,},
     {"id":{"name":"Obj_breakGrass","path":"objects/Obj_breakGrass/Obj_breakGrass.yy",},"order":0,},
