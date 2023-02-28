@@ -13,5 +13,7 @@ direction = 0;
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1
 /// @DnDHash : 57C8DE95
-image_xscale = 1;
-image_yscale = 1;
+/// @DnDArgument : "xscale" "1.26"
+/// @DnDArgument : "yscale" "1.66"
+image_xscale = 1.26;
+image_yscale = 1.66;

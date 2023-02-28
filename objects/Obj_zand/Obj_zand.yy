@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_gras2",
+  "name": "Obj_zand",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_hoofd","path":"objects/obj_hoofd/obj_hoofd.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "bouwblokken",
+    "path": "folders/Objects/bouwblokken.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -34,8 +34,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spr_blok",
-    "path": "sprites/spr_blok/spr_blok.yy",
+    "name": "spr_zand",
+    "path": "sprites/spr_zand/spr_zand.yy",
   },
   "spriteMaskId": null,
   "visible": true,
