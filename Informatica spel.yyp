@@ -45,7 +45,7 @@
     {"id":{"name":"spr_zandbreak","path":"sprites/spr_zandbreak/spr_zandbreak.yy",},"order":0,},
     {"id":{"name":"Obj_pew","path":"objects/Obj_pew/Obj_pew.yy",},"order":0,},
     {"id":{"name":"spr_zand","path":"sprites/spr_zand/spr_zand.yy",},"order":0,},
-    {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},"order":0,},
+    {"id":{"name":"Spr_playbutton","path":"sprites/Spr_playbutton/Spr_playbutton.yy",},"order":0,},
     {"id":{"name":"Spr_achtergrond2","path":"sprites/Spr_achtergrond2/Spr_achtergrond2.yy",},"order":0,},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":0,},
     {"id":{"name":"spr_breakgras","path":"sprites/spr_breakgras/spr_breakgras.yy",},"order":0,},
