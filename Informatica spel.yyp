@@ -51,6 +51,7 @@
     {"id":{"name":"Obj_gras","path":"objects/Obj_gras/Obj_gras.yy",},"order":0,},
     {"id":{"name":"Spr_aliaan","path":"sprites/Spr_aliaan/Spr_aliaan.yy",},"order":0,},
     {"id":{"name":"Obj_breakgras","path":"objects/Obj_breakgras/Obj_breakgras.yy",},"order":0,},
+    {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":0,},
     {"id":{"name":"spr_bob","path":"sprites/spr_bob/spr_bob.yy",},"order":0,},
     {"id":{"name":"Obj_zand","path":"objects/Obj_zand/Obj_zand.yy",},"order":0,},
     {"id":{"name":"Obj_breakzand","path":"objects/Obj_breakzand/Obj_breakzand.yy",},"order":0,},

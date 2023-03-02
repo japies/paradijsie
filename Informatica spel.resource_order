@@ -32,6 +32,7 @@
     {"name":"Obj_gras","order":1,"path":"objects/Obj_gras/Obj_gras.yy",},
     {"name":"Spr_aliaan","order":1,"path":"sprites/Spr_aliaan/Spr_aliaan.yy",},
     {"name":"Obj_breakgras","order":1,"path":"objects/Obj_breakgras/Obj_breakgras.yy",},
+    {"name":"Sprite11","order":11,"path":"sprites/Sprite11/Sprite11.yy",},
     {"name":"spr_bob","order":7,"path":"sprites/spr_bob/spr_bob.yy",},
   ],
 }
