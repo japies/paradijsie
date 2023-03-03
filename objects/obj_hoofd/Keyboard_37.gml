@@ -17,9 +17,3 @@ speed = 2;
 /// @DnDArgument : "yscale" "1.66"
 image_xscale = -1.26;
 image_yscale = 1.66;
-
-/// @DnDAction : YoYo Games.Movement.Set_Gravity_Force
-/// @DnDVersion : 1
-/// @DnDHash : 144FC060
-/// @DnDArgument : "force" "4"
-gravity = 4;
