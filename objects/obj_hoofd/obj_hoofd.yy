@@ -19,6 +19,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_steenblok","path":"objects/obj_steenblok/obj_steenblok.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_tafel","path":"objects/obj_tafel/obj_tafel.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_breaksteen","path":"objects/obj_breaksteen/obj_breaksteen.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"portal","path":"objects/portal/portal.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],

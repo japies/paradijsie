@@ -24,9 +24,11 @@
   "ResourceOrderSettings": [
     {"name":"Object7","order":6,"path":"objects/Object7/Object7.yy",},
     {"name":"Spr_coco","order":1,"path":"sprites/Spr_coco/Spr_coco.yy",},
+    {"name":"portal","order":17,"path":"objects/portal/portal.yy",},
     {"name":"obj_score1","order":12,"path":"objects/obj_score1/obj_score1.yy",},
     {"name":"Spr_grondvulkaan","order":4,"path":"sprites/Spr_grondvulkaan/Spr_grondvulkaan.yy",},
     {"name":"Obj_coconut","order":2,"path":"objects/Obj_coconut/Obj_coconut.yy",},
+    {"name":"Sprite29","order":20,"path":"sprites/Sprite29/Sprite29.yy",},
     {"name":"obj_steenblok","order":2,"path":"objects/obj_steenblok/obj_steenblok.yy",},
     {"name":"Spr_nextroom","order":2,"path":"sprites/Spr_nextroom/Spr_nextroom.yy",},
     {"name":"Spr_achtergrondkasteel2","order":3,"path":"sprites/Spr_achtergrondkasteel2/Spr_achtergrondkasteel2.yy",},
