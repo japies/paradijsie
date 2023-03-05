@@ -19,8 +19,8 @@ if((l430D179C_0))
 	/// @DnDVersion : 1
 	/// @DnDHash : 0E9CBEA1
 	/// @DnDParent : 430D179C
-	/// @DnDArgument : "speed" "1"
-	speed = 1;
+	/// @DnDArgument : "speed" "10"
+	speed = 10;
 
 	/// @DnDAction : YoYo Games.Movement.Set_Direction_Point
 	/// @DnDVersion : 1
