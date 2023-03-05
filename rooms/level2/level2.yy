@@ -691,7 +691,6 @@
     {"name":"inst_707F914F","path":"rooms/level2/level2.yy",},
     {"name":"inst_34A72BC3","path":"rooms/level2/level2.yy",},
     {"name":"inst_140A4C38","path":"rooms/level2/level2.yy",},
-    {"name":"inst_446E48D","path":"rooms/level2/level2.yy",},
     {"name":"inst_6EDB0A4E","path":"rooms/level2/level2.yy",},
     {"name":"inst_69A659EC","path":"rooms/level2/level2.yy",},
     {"name":"inst_791BE88D","path":"rooms/level2/level2.yy",},
@@ -721,6 +720,7 @@
     {"name":"inst_B692F12","path":"rooms/level2/level2.yy",},
     {"name":"inst_1960D197","path":"rooms/level2/level2.yy",},
     {"name":"inst_3B288E90","path":"rooms/level2/level2.yy",},
+    {"name":"inst_4C94C35B","path":"rooms/level2/level2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -1413,7 +1413,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_707F914F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_steenblok","path":"objects/obj_steenblok/obj_steenblok.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":6336.0,"y":416.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_34A72BC3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_steenblok","path":"objects/obj_steenblok/obj_steenblok.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":6144.0,"y":448.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_140A4C38","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_muurtje","path":"objects/Obj_muurtje/Obj_muurtje.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.328125,"x":6208.0,"y":299.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_446E48D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_nextroom","path":"objects/Obj_nextroom/Obj_nextroom.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":6244.0,"y":369.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6EDB0A4E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_muurtje","path":"objects/Obj_muurtje/Obj_muurtje.yy",},"properties":[],"rotation":0.0,"scaleX":-1.0,"scaleY":1.328125,"x":6295.0,"y":299.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_69A659EC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"vulkaan","path":"objects/vulkaan/vulkaan.yy",},"properties":[],"rotation":0.0,"scaleX":1.9375,"scaleY":1.625,"x":6189.0,"y":281.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_791BE88D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object7","path":"objects/Object7/Object7.yy",},"properties":[],"rotation":0.0,"scaleX":-1.3,"scaleY":1.8,"x":4288.0,"y":288.0,},
@@ -1443,6 +1442,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_B692F12","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_spike","path":"objects/Obj_spike/Obj_spike.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":4128.0,"y":448.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1960D197","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_breaksteen","path":"objects/obj_breaksteen/obj_breaksteen.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1504.0,"y":128.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3B288E90","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_breaksteen","path":"objects/obj_breaksteen/obj_breaksteen.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1504.0,"y":96.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4C94C35B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"portal","path":"objects/portal/portal.yy",},"properties":[],"rotation":0.0,"scaleX":0.140625,"scaleY":0.171875,"x":6245.0,"y":368.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_44D8D0B9","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":7.0,"scaleY":7.5,"spriteId":{"name":"Spr_achtergrondkasteel1","path":"sprites/Spr_achtergrondkasteel1/Spr_achtergrondkasteel1.yy",},"x":0.0,"y":0.0,},
