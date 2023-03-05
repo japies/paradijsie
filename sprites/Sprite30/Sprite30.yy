@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "leuke bordjes",
+    "path": "folders/Sprites/leuke bordjes.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
