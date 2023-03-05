@@ -9,10 +9,10 @@ global.player_lives += -1;
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 2B90488D
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)obj_hoofd.x = Obj_gras27.x$(13_10)obj_hoofd.y = Obj_gras27.y$(13_10)"
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)obj_hoofd.x = Obj_gras31.x$(13_10)obj_hoofd.y = Obj_gras31.y$(13_10)"
 /// @description Execute Code
-obj_hoofd.x = Obj_gras27.x
-obj_hoofd.y = Obj_gras27.y
+obj_hoofd.x = Obj_gras31.x
+obj_hoofd.y = Obj_gras31.y
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
@@ -31,7 +31,7 @@ if(global.player_lives < 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 23532219
 	/// @DnDParent : 08B602F7
-	/// @DnDArgument : "room" "death"
-	/// @DnDSaveInfo : "room" "death"
-	room_goto(death);
+	/// @DnDArgument : "room" "Room6"
+	/// @DnDSaveInfo : "room" "Room6"
+	room_goto(Room6);
 }
