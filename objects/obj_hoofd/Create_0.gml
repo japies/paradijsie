@@ -20,9 +20,9 @@ cursor_sprite = Sprite11;
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
 /// @DnDHash : 40F4DB57
-/// @DnDArgument : "score" "3"
+/// @DnDArgument : "score" "5"
 
-__dnd_score = real(3);
+__dnd_score = real(5);
 
 /// @DnDAction : YoYo Games.Collisions.If_Any_Object_At
 /// @DnDVersion : 1
