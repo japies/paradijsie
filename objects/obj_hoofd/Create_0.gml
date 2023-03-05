@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 336791DD
+/// @DnDArgument : "value" "3"
+/// @DnDArgument : "var" "global.player_lives"
+global.player_lives = 3;
+
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 2DB20270
