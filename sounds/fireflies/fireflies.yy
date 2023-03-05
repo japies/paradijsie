@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 225.67181,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "preload": false,
   "sampleRate": 44100,
