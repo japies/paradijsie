@@ -21,5 +21,6 @@ audio_stop_sound(leaf);
 /// @DnDVersion : 1.1
 /// @DnDHash : 157D9304
 /// @DnDArgument : "soundid" "fireflies"
+/// @DnDArgument : "loop" "1"
 /// @DnDSaveInfo : "soundid" "fireflies"
-audio_play_sound(fireflies, 0, 0, 1.0, undefined, 1.0);
+audio_play_sound(fireflies, 0, 1, 1.0, undefined, 1.0);

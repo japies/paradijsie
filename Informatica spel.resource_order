@@ -87,6 +87,7 @@
     {"name":"level2","order":2,"path":"rooms/level2/level2.yy",},
     {"name":"spr_steenbreak","order":2,"path":"sprites/spr_steenbreak/spr_steenbreak.yy",},
     {"name":"Sprite33","order":3,"path":"sprites/Sprite33/Sprite33.yy",},
+    {"name":"Sprite54","order":36,"path":"sprites/Sprite54/Sprite54.yy",},
     {"name":"Spr_restart","order":34,"path":"sprites/Spr_restart/Spr_restart.yy",},
     {"name":"Obj_begin","order":18,"path":"objects/Obj_begin/Obj_begin.yy",},
     {"name":"Obj_breakgras","order":1,"path":"objects/Obj_breakgras/Obj_breakgras.yy",},

@@ -114,6 +114,7 @@
     {"id":{"name":"level2","path":"rooms/level2/level2.yy",},"order":0,},
     {"id":{"name":"spr_steenbreak","path":"sprites/spr_steenbreak/spr_steenbreak.yy",},"order":0,},
     {"id":{"name":"Sprite33","path":"sprites/Sprite33/Sprite33.yy",},"order":0,},
+    {"id":{"name":"Sprite54","path":"sprites/Sprite54/Sprite54.yy",},"order":0,},
     {"id":{"name":"Spr_restart","path":"sprites/Spr_restart/Spr_restart.yy",},"order":0,},
     {"id":{"name":"Spr_aliaan","path":"sprites/Spr_aliaan/Spr_aliaan.yy",},"order":0,},
     {"id":{"name":"Obj_begin","path":"objects/Obj_begin/Obj_begin.yy",},"order":0,},

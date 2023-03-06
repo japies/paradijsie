@@ -12,5 +12,6 @@ audio_stop_all();
 /// @DnDVersion : 1.1
 /// @DnDHash : 014A0520
 /// @DnDArgument : "soundid" "leaf"
+/// @DnDArgument : "loop" "1"
 /// @DnDSaveInfo : "soundid" "leaf"
-audio_play_sound(leaf, 0, 0, 1.0, undefined, 1.0);
+audio_play_sound(leaf, 0, 1, 1.0, undefined, 1.0);
